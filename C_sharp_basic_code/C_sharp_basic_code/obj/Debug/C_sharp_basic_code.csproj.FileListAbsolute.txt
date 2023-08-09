@@ -1,0 +1,7 @@
+D:\game devs\2023 games\c sharp code\c-sharp-absolute-beginner-test\C_sharp_basic_code\C_sharp_basic_code\bin\Debug\C_sharp_basic_code.exe.config
+D:\game devs\2023 games\c sharp code\c-sharp-absolute-beginner-test\C_sharp_basic_code\C_sharp_basic_code\bin\Debug\C_sharp_basic_code.exe
+D:\game devs\2023 games\c sharp code\c-sharp-absolute-beginner-test\C_sharp_basic_code\C_sharp_basic_code\bin\Debug\C_sharp_basic_code.pdb
+D:\game devs\2023 games\c sharp code\c-sharp-absolute-beginner-test\C_sharp_basic_code\C_sharp_basic_code\obj\Debug\C_sharp_basic_code.csproj.AssemblyReference.cache
+D:\game devs\2023 games\c sharp code\c-sharp-absolute-beginner-test\C_sharp_basic_code\C_sharp_basic_code\obj\Debug\C_sharp_basic_code.csproj.CoreCompileInputs.cache
+D:\game devs\2023 games\c sharp code\c-sharp-absolute-beginner-test\C_sharp_basic_code\C_sharp_basic_code\obj\Debug\C_sharp_basic_code.exe
+D:\game devs\2023 games\c sharp code\c-sharp-absolute-beginner-test\C_sharp_basic_code\C_sharp_basic_code\obj\Debug\C_sharp_basic_code.pdb
